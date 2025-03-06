@@ -1,0 +1,3 @@
+0d36d08 (HEAD -> main, origin/main) Добавил log.txt
+b160e23 Добавил status.txt
+38040bb добавил README.md
